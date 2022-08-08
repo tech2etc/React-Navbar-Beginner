@@ -1,0 +1,31 @@
+.home {
+  width: 100%;
+  height: 84vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg, #effaff 0%, #d9e7ff 100%);
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 800;
+  padding-bottom: 10px;
+  background: -webkit-linear-gradient(45deg, #09009f, #32d390 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h3 {
+  background: radial-gradient(
+    circle at -3.1% -4.3%,
+    rgb(57, 255, 186) 0%,
+    rgb(21, 38, 82) 90%
+  );
+  padding: 1rem 2rem;
+  border-radius: 6px;
+  font-size: 22px;
+  letter-spacing: 2px;
+  color: #fff;
+}
