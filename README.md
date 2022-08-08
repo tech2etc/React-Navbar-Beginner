@@ -1,7 +1,7 @@
 # React_Navbar1_Template
-[<img alt="Responsive React JS Navbar" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/react_navbar1.PNG?raw=true" />](https://youtu.be/0h2b4ftbZcU/)
+[<img alt="Responsive React JS Navbar" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/react_navbar1.PNG?raw=true" />](https://youtu.be/23BHwAFIZmk)
 
-[<img alt="Responsive React JS Navbar" width="30%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/react_navbar1_responsive.png?raw=true" />](https://youtu.be/0h2b4ftbZcU/)
+[<img alt="Responsive React JS Navbar" width="30%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/react_navbar1_responsive.png?raw=true" />](https://youtu.be/23BHwAFIZmk)
 
 Hi everyone, welcome to our new react js tutorial. In this tutorial, We will create a professional looking responsive navbar using react js.
 
