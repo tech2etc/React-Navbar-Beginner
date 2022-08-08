@@ -14,8 +14,9 @@ Without wasting your time, let's see what react js actually is...
 
 # Setup
 1. Open Your VS Code.
-2. Drag and drop this project inside VS code.
-3. Open a terminal & run this command.
+2. Download this project.
+3. Drag and drop this project inside VS code.
+4. Open a terminal & run this command.
  run ```npm i && npm start```
 
 Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/83769).
