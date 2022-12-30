@@ -1,9 +1,9 @@
-# React_Navbar1_Template
+# React-Navbar-Beginner
 [<img alt="Responsive React JS Navbar" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/react_navbar1.PNG?raw=true" />](https://youtu.be/23BHwAFIZmk)
 
 [<img alt="Responsive React JS Navbar" width="30%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/react_navbar1_responsive.png?raw=true" />](https://youtu.be/23BHwAFIZmk)
 
-Hi everyone, welcome to our new react js tutorial. In this tutorial, We will create a professional looking responsive navbar using react js.
+Lets learn how to create responsive navbar using react js. This is a part of our react js course. In this tutorial, we will make a professional looking navbar using basic react js. After creating our navbar, we will also learn how to deploy our react project on GitHub & Netlify.
 
 - This is an empty template to get started.
 
@@ -20,5 +20,6 @@ Without wasting your time, let's see what react js actually is...
  run ```npm i && npm start```
 
 Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/83769).
+
 Get the full source code from [here2](https://ko-fi.com/s/3219c3644a).
 
